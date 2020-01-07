@@ -35,7 +35,7 @@
 <img src="https://raw.githubusercontent.com/LucasSonego/CSS-Grid/master/images/grid.png" />
 
 ## Grid column and Grid Row
->### Other way to define the position of the elements on the grid is by using `grid-column` and `grid-row`, this way is not very readable and is a little bit confusing, but it allows you to make the ekements overlap others if it's necessary
+>### Other way to define the position of the elements on the grid is by using `grid-column` and `grid-row`, this way is not very readable and is a little bit confusing, but it allows you to make the elements overlap others if it's necessary
 
 With `grid-column` and `grid-row`, you need to define the grid line that the element starts and also the line that it ends.
 
